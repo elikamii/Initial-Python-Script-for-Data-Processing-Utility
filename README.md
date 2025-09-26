@@ -12,7 +12,7 @@ print("------------------------------------------")
 except FileNotFoundError:
 print(f"Error: The file '{file\_path}' was not found.")
 except Exception as e:
-print(f"An unexpected error occurred: {e}")
+&lt;/box&gt;
 
 if **name** == "**main**":
 \# Assume 'sample\_data.txt' exists in the same directory
